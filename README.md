@@ -1,6 +1,8 @@
 # SMILE-CARE  (FULLSTACK PROJECT) 
 SMILE_CARE Dental Management System is a full-stack web-based application designed to streamline dental clinic operations. It enables patients to book appointments, manage their medical records, and access various dental services online .
 
+![image alt](https://github.com/Sujith-Kulal/SMILE-CARE/blob/0b7230cb40be13e972ec81779c3b36ef96819709/Screenshot%20(45).png)
+
 SmileCare Dental 
 
 Project Summary
