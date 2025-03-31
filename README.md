@@ -3,6 +3,10 @@ SMILE_CARE Dental Management System is a full-stack web-based application design
 
 ![image alt](https://github.com/Sujith-Kulal/SMILE-CARE/blob/0b7230cb40be13e972ec81779c3b36ef96819709/Screenshot%20(45).png)
 
+![image alt](https://github.com/Sujith-Kulal/SMILE-CARE/blob/d2302b63d66b2db3541ab4e7e63d57e550f75eaf/Screenshot%20(47).png)
+
+![image alt](https://github.com/Sujith-Kulal/SMILE-CARE/blob/d2302b63d66b2db3541ab4e7e63d57e550f75eaf/Screenshot%20(46).png)
+
 SmileCare Dental 
 
 Project Summary
