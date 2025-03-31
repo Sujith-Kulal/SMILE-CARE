@@ -7,12 +7,14 @@ SMILE_CARE Dental Management System is a full-stack web-based application design
 
 ![image alt](https://github.com/Sujith-Kulal/SMILE-CARE/blob/d2302b63d66b2db3541ab4e7e63d57e550f75eaf/Screenshot%20(46).png)
 
-SmileCare Dental 
 
-Project Summary
+
+Project Summary  :
+--------------
 The SmileCare Dental Management System is a web-based application built with PHP, MySQL, Bootstrap, and JavaScript. It allows patients to book appointments, contact the clinic, and learn about dental services, while administrators and doctors can manage patient records, appointments, and queries.
 
-Key Features
+Key Features  :
+------------
 1. Home Page (index.php)
 Displays the clinic’s name, mission, and services.
 Provides navigation links to different sections like About Us, Services, Contact, and Login.
@@ -38,7 +40,8 @@ Doctors can log in to check their scheduled appointments.
 Can update the status of an appointment (e.g., Completed, Pending, Canceled).
 View patient records and history.
 
-How It Works:
+How It Works :
+--------------
 User Journey
 Visitor lands on the homepage (index.php).
 Can browse available services.
@@ -58,13 +61,15 @@ Admin & Doctor Panel:
 The Admin manages users, appointments, and inquiries.
 The Doctor views appointments and updates their status.
 
-Database Structure:
+Database Structure  :
+--------------------
 Tables Used
 tblusers – Stores patient details.
 tblappointments – Stores appointment requests.
 tblcontactus – Stores contact form messages.
 
-Technology Stack:
+Technology Stack  :
+-------------------
 Frontend: HTML, CSS (Bootstrap), JavaScript
 Backend: PHP (procedural)
 Database: MySQL
